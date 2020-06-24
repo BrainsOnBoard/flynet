@@ -1,0 +1,3 @@
+[submodule "dataset/nordland-dataset"]
+	path = dataset/nordland-dataset
+	url = ../nordland-dataset
